@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Exploring the Loan Data from Prosper
+## by BJ Kim
 
 
 ## Dataset
